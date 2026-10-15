@@ -1,0 +1,12 @@
+pandas
+numpy
+geopandas
+osmnx
+shapely
+lightgbm
+scikit-learn
+joblib
+matplotlib
+requests
+tqdm
+psutil
